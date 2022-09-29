@@ -4,9 +4,6 @@
 ### 姓名:李苡嘉
 ### 科技系114級
 ## 課程筆記區
->* 課堂任務
->    + [Python基礎1](https://github.com/shihjonathan0302/PL/blob/main/PL/Python_基礎1.ipynb)
->    + [Python基礎2](https://github.com/shihjonathan0302/PL/blob/main/Python_基礎2.ipynb)
 >* 課堂PPT
 >    + [第一週](https://docs.google.com/presentation/d/e/2PACX-1vS_11f3KIeNeqmInAKfHaDzOTxK_ff05aI3H3hanLX1qI6Z8iHhbOfqEUgl3Gzx3s1pYtjIZcdzECSP/pub?start=false&loop=false&delayms=3000&slide=id.p)
 >    + [第二週](https://docs.google.com/presentation/d/e/2PACX-1vQa2_6HxpBPDUjViqvd82AqQfnywwWwETU60fLexCe7ADD8A7kHkpGjkmO6kCSYyw-AFrSCfG3THXiA/pub?start=false&loop=false&delayms=3000&slide=id.p)
