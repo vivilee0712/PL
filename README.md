@@ -20,8 +20,8 @@
 >    + [Python 字串基本用法](https://shengyu7697.github.io/python-str/)
 >    + [Stackoverflow](https://stackoverflow.com/questions/21448225/getting-indices-of-true-values-in-a-boolean-list)
 >    + [Pythonvis](https://pythonviz.com/basic/python-compare-lists-intersection-difference/)
-## 作業連結區
->* [作業1-1](https://github.com/vivilee0712/PL/blob/main/PL_HW1-1.ipynb)
->* [作業1-2](https://github.com/vivilee0712/PL/blob/main/PL_HW1-2.ipynb)
->* [作業1-3](https://github.com/vivilee0712/PL/blob/main/PL_HW1-3.ipynb)
+## 課堂練習區
+>* [練習1-1](https://github.com/vivilee0712/PL/blob/main/PL_HW1-1.ipynb)
+>* [練習1-2](https://github.com/vivilee0712/PL/blob/main/PL_HW1-2.ipynb)
+>* [練習1-3](https://github.com/vivilee0712/PL/blob/main/PL_HW1-3.ipynb)
 ## 專題連結區
