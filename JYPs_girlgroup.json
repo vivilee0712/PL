@@ -1,0 +1,148 @@
+{
+    "company": "JYPE",
+    "founded": 1997,
+    "girl_group_count": 3,
+    "girl_group_member_count": 21,
+    "members":[
+     {
+      "Name": "Nayeon",
+      "Position": "領唱、領舞",
+      "Age": 27,
+      "Sign": "Virgo",
+      "Nation": "South Korea"
+     },
+     {
+      "Name": "Jeongyeon",
+      "Position": "領唱",
+      "Age": 25,
+      "Sign": "Scorpio",
+      "Nation": "South Korea"
+     },
+     {
+      "Name": "Momo",
+      "Position": "主舞、副唱、副Rapper",
+      "Age": 25,
+      "Sign": "Scorpio",
+      "Nation": "Japan"
+     },
+     {
+      "Name": "Sana",
+      "Position": "副唱",
+      "Age": 25,
+      "Sign": "Capricorn",
+      "Nation": "Japan"
+     },
+     {
+      "Name": "Jihyo",
+      "Position": "隊長、主唱",
+      "Age": 25,
+      "Sign": "Aquarius",
+      "Nation": "South Korea"
+     },
+     {
+      "Name": "Mina",
+      "Position": "副唱、主舞",
+      "Age": 25,
+      "Sign": "Aries",
+      "Nation": "Japan"
+     },
+     {
+      "Name": "Dahyun",
+      "Position": "副唱、領Rapper",
+      "Age": 24,
+      "Sign": "Gemini",
+      "Nation": "South Korea"
+     },
+     {
+      "Name": "Chaeyoung",
+      "Position": "副唱、主Rapper",
+      "Age": 23,
+      "Sign": "Taurus",
+      "Nation": "South Korea"
+     },
+     {
+      "Name": "Tzuyu",
+      "Position": "副唱、領舞、忙內",
+      "Age": 23,
+      "Sign": "Gemini",
+      "Nation": "Taiwan"
+     },
+     {
+      "Name": "Lia",
+      "Position": "主唱",
+      "Age": 22,
+      "Sign": "Cancer",
+      "Nation": "South Korea"
+     },
+     {
+      "Name": "Yeji",
+      "Position": "隊長、領唱、主領舞、副Rapper",
+      "Age": 22,
+      "Sign": "Gemini",
+      "Nation": "South Korea"
+     },
+     {
+      "Name": "Ryujin",
+      "Position": "副唱、主Rapper、領舞、中心",
+      "Age": 21,
+      "Sign": "Aries",
+      "Nation": "South Korea"
+     },
+     {
+      "Name": "Chaeryeong",
+      "Position": "副唱、主領舞、副Rapper",
+      "Age": 21,
+      "Sign": "Gemini",
+      "Nation": "South Korea"
+     },
+     {
+      "Name": "Yuna",
+      "Position": "副唱、領舞、領rapper、忙內、門面",
+      "Age": 18,
+      "Sign": "Sagittarius",
+      "Nation": "South Korea"
+     },
+     {
+      "Name": "Haewon",
+      "Age": 19,
+      "Sign": "Pisces",
+      "Nation": "South Korea"
+     },
+     {
+      "Name": "Lily",
+      "Age": 20,
+      "Sign": "Libra",
+      "Nation": "Victoria"
+     },
+     {
+      "Name": "Sullyoon",
+      "Age": 18,
+      "Sign": "Aquarius",
+      "Nation": "South Korea"
+     },
+     {
+      "Name": "Jinni",
+      "Age": 18,
+      "Sign": "Aries",
+      "Nation": "South Korea"
+     },
+     {
+      "Name": "Bae",
+      "Age": 17,
+      "Sign": "Capricorn",
+      "Nation": "South Korea"
+     },
+     {
+      "Name": "Jiwoo",
+      "Age": 17,
+      "Sign": "Aries",
+      "Nation": "South Korea"
+     },
+     {
+      "Name": "Kyujin",
+      "Age": 16,
+      "Sign": "Gemini",
+      "Nation": "South Korea"
+     }
+  ]
+}
