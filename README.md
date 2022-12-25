@@ -26,4 +26,8 @@
 >* [作業一](https://github.com/vivilee0712/PL/blob/main/HW1.ipynb)
 >* [作業二](https://github.com/vivilee0712/PL/blob/main/HW2.ipynb)
 >* [作業三](https://github.com/vivilee0712/PL/blob/main/HW3.ipynb)
+>* [作業四](https://github.com/vivilee0712/PL/blob/main/HW3.ipynb)
 ## 專題連結區
+>* [時間管理大師簡報](https://www.canva.com/design/DAFTevxdOJU/BmMPWUp7GXiSUIrvhN1HbQ/view?utm_content=DAFTevxdOJU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+>* [時間管理大師Figma呈現](https://www.figma.com/proto/m9mNtW9XAqA1BekJqKzIre/time-master?node-id=6%3A17&scaling=scale-down&page-id=0%3A1&starting-point-node-id=6%3A17)
+>* [時間管理大師影片報告](https://www.youtube.com/watch?v=M8SUFAvh5HQ)
